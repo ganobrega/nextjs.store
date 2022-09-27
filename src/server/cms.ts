@@ -6,3 +6,4 @@ export const clientCMS = new ClientCMS({
   workspace: config.api.workspace,
   tenant: config.api.storeId,
 })
+
